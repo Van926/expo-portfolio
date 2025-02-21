@@ -1,3 +1,5 @@
+import { ImageBackground } from "react-native";
+
 export const lightTheme = {
     colors: {
       background: '#ffffff',
